@@ -6,5 +6,9 @@ this repo includes bootstrap lecture notes
 - 16.02.2022
 
 ## Day 47
-> I'm here https://www.w3schools.com/bootstrap5/bootstrap_buttons.php
+> I was here https://www.w3schools.com/bootstrap5/bootstrap_buttons.php
 - 17.02.2022
+
+# Day 48
+> I'm here https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
+- 18.02.2022
