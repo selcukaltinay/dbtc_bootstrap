@@ -10,5 +10,9 @@ this repo includes bootstrap lecture notes
 - 17.02.2022
 
 # Day 48
-> I'm here https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
+> I was here https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
 - 18.02.2022
+
+# Day 49
+> I'm here 
+- 19.02.2022
