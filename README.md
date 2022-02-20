@@ -14,5 +14,5 @@ this repo includes bootstrap lecture notes
 - 18.02.2022
 
 # Day 49
-> I'm here 
-- 19.02.2022
+> Completed.
+- 19.02.2022 
